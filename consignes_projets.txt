@@ -1,0 +1,6 @@
+Projet 1: 
+
+Charger les pays dans le SELECT
+
+Quand on selectionne un pays => affichage des villes du pays en question
+
